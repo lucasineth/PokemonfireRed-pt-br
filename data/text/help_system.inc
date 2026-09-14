@@ -14,10 +14,10 @@ Help_Text_TypeMatchupList::
 	.string "Type Matchup List$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+	.string "SAIR$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+	.string "CANCELAR$"
 
 Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"

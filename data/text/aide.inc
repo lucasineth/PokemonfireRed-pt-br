@@ -1,15 +1,16 @@
 Aide_Text_HaventCaughtEnoughMonsForItem::
-	.string "Let's see…\n"
-	.string "Uh-oh! You have caught only\l"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "You need {STR_VAR_1} kinds\n"
-	.string "if you want the {STR_VAR_2}.$"
+	.string "Vamos ver…\n"
+	.string "Ops! Você capturou apenas\l"
+	.string "{STR_VAR_3} tipos de POKéMON!\p"
+	.string "Você precisa de {STR_VAR_1} tipos\n"
+	.string "se quiser o {STR_VAR_2}.$"
 
 Aide_Text_GetEnoughMonsComeBackForItem::
-	.string "…Oh. I see.\p"
-	.string "When you get {STR_VAR_1} kinds of POKéMON,\n"
-	.string "come back for the {STR_VAR_2}.$"
+	.string "...\n"
+	.string "Entendo.\p"
+	.string "Quando conseguir {STR_VAR_1} tipos de POKéMON,\n"
+	.string "volte para pegar o {STR_VAR_2}.$"
 
 Aide_Text_DontHaveAnyRoomForItem::
-	.string "Oh! I see you don't have any\n"
-	.string "room for the {STR_VAR_2}.$"
+	.string "Ah! Vejo que você não tem\n"
+	.string "espaço para o {STR_VAR_2}.$"
